@@ -1,6 +1,6 @@
 package Controller;
 
-import com.example.4095lab2.Model.AllQuestions;
+import 4095lab2.app.java.Model.AllQuestions;
 
 public class Score {
     public final int CORRECT_ANSWER = 10;
